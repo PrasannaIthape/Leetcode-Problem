@@ -40,6 +40,7 @@ calls[i] is one of "increment", "decrement" and "reset"
 ```
 
 ### Solutions (Javascript)
+```
 /**
  * @param {integer} init
  * @return { increment: Function, decrement: Function, reset: Function }
